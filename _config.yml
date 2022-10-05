@@ -58,13 +58,11 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-sidebar:
-  title: "JJJ"
-  image : "/assets/images/bio-image.jpg"
+
 
 author:
   name   : "Jingjing Jiang"
- # avatar : "/assets/images/bio-image.jpg"
+  avatar : "/assets/images/bio-image.jpg"
   bio    : "Scientist in medical imaging"
   links:
     - label: "Website"
