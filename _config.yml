@@ -59,7 +59,8 @@ plugins:
 
 author:
   name   : "Jingjing Jiang"
-  avatar : "/assets/images/bio-image.jpg"
+ # avatar : "/assets/images/bio-image.jpg"
+  image : "/assets/images/bio-image.jpg"
   bio    : "Scientist in medical imaging"
   links:
     - label: "Website"
