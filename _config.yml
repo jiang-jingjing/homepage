@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Jingjing Jiang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Researcher in medical imaging"
+  bio    : "Scientist in medical imaging"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
