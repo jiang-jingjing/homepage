@@ -103,7 +103,8 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: home
+      layout: single
+      class: wide
       author_profile: true
       read_time: true
       comments: true
