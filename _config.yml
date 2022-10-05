@@ -72,7 +72,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jingjingjiangzurich/"
     - label: "Publications"
-      icon: "fab fa-fw fa-google-scholar"
+      icon: "fab fa-fw icon-google-scholar"
       url: "https://scholar.google.com/citations?user=hoy7VbIAAAAJ&hl=en&oi=sra"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
