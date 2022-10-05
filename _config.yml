@@ -100,7 +100,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: defaults
     values:
       layout: single
       author_profile: true
