@@ -10,6 +10,15 @@ author_profile: true
 I am a junior research group leader at Biomedical Optics Research Laboratory (BORL), University Hospital and University of Zurich. I obtained Doctor of Science degree from ETH Zurich in February 2021, with the thesis entitled [Imaging with near infrared light](https://www.research-collection.ethz.ch/handle/20.500.11850/468947).  My research interests focus on non-invasive optical imaging, medical imaging, image reconstruction, and machine learning. 
 </span>
 
+#### Selected Publications
+* <span style="font-family:Helvetica; font-size:18px;">Jiang, J., Di Costanzo Mata A., Lindner S., Charbon E., Wolf M, & Kalyanov, A., 2.5 Hz sample rate time-domain near-infrared optical tomography based on SPAD-camera image tissue hemodynamics, Biomed. Opt. Express 13, 133-146 (2022) </span>
+* <span style="font-family:Helvetica; font-size:18px;"> Jiang, J., Di Costanzo Mata, A., Lindner, S., Charbon, E., Wolf, M. & Kalyanov, A. Dynamic time domain near-infrared optical tomog- raphy based on a SPAD camera. Biomed. Opt. Express 11, 5470 (2020).
+ </span>
+* <span style="font-family:Helvetica; font-size:18px;">Jiang, J., Di Costanzo Mata, A., Lindner, S., Zhang, C., Charbon, E., Wolf, M. & Kalyanov, A. Image reconstruction for novel time do- main near infrared optical tomography: towards clinical applications. Biomed. Opt. Express 11, 4723 (2020). </span>
+* <span style="font-family:Helvetica; font-size:18px;">Ren, W., Jiang, J., Di Costanzo Mata, A., Kalyanov, A., Ripoll, J., Lindner, S., Charbon, E., Zhang, C., Rudin, M. & Wolf, M. Multimodal imaging combining time-domain near-infrared optical tomography and continuous-wave fluorescence molecular tomography. Opt.  Express 28, 9860 (2020)
+ </span>
+
+
 #### Academic Experiences
 * <span style="font-family:Helvetica; font-size:18px;">Feb. 2022 - now,  [ZNZ junior group leader](https://www.neuroscience.uzh.ch/en/research/biomedical_technology.html#jiang) </span>
 * <span style="font-family:Helvetica; font-size:18px;"> Mar. 2021 - Jan. 2022, Postdoc at University of Zurich </span>
@@ -19,36 +28,3 @@ I am a junior research group leader at Biomedical Optics Research Laboratory (BO
  
 
 
-
-
-A notice displays information that explains nearby content. Often used to call attention to a particular detail.
-
-When using Kramdown `{: .notice}` can be added after a sentence to assign the `.notice` to the `<p></p>` element. 
-
-**Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
-{: .notice}
-
-**Primary Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. [Praesent libero](#). Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--primary}
-
-**Info Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing elit](#). Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--info}
-
-**Warning Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Integer nec odio](#). Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--warning}
-
-**Danger Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing](#) elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--danger}
-
-**Success Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at [nibh elementum](#) imperdiet.
-{: .notice--success}
-
-Want to wrap several paragraphs or other elements in a notice? Using Liquid to capture the content and then filter it with `markdownify` is a good way to go.
-
-```html
-{% raw %}{% capture notice-2 %}
-#### New Site Features
-
-* You can now have cover images on blog pages
-* Drafts will now auto-save while writing
-{% endcapture %}{% endraw %}
