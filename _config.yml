@@ -61,6 +61,7 @@ author:
   name   : "Jingjing Jiang"
   avatar : "/assets/images/bio-image.jpg"
   bio    : "Scientist in medical imaging"
+  location : "Zurich, Switzerland"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
