@@ -6,17 +6,18 @@ author_profile: true
  
 ## Jingjing Jiang, Dr. Sc. ETH
  
-<span style="font-family:Papyrus; font-size:15px;">
+<span style="font-family:Helvetica; font-size:20px;">
 I am a junior research group leader at Biomedical Optics Research Laboratory (BORL), University Hospital and University of Zurich. I obtained Doctor of Science degree from ETH Zurich in February 2021, with the thesis entitled [Imaging with near infrared light](https://www.research-collection.ethz.ch/handle/20.500.11850/468947).  My research interests focus on non-invasive optical imaging, medical imaging, image reconstruction, and machine learning. 
 </span>
 
 #### Academic Experiences
+<span style="font-family:Helvetica; font-size:18px;">
 + Feb. 2022 - now,  [ZNZ junior group leader](https://www.neuroscience.uzh.ch/en/research/biomedical_technology.html#jiang)
 + Mar. 2021 - Jan. 2022, Postdoc at University of Zurich
 + Mar. 2016 - Feb. 2021, Doctoral student at [ETH Zurich](https://ethz.ch/en.html)
 + Sep. 2013 - Sep. 2015, Master student at [ETH Zurich](https://ethz.ch/en.html), Biomedical Engineering
 + Sep. 2009 - Jun. 2013, Bachlor student at [Sichuan University](https://en.scu.edu.cn), Electronics and Information Engineering, with outstanding graduate award
-
+</span>
 
 
 
