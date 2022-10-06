@@ -1,8 +1,7 @@
 ---
 title: "my home"
-layout: categories
-permalink: /home/
 layout: home
+permalink: /home/
 author_profile: true
 ---
 ## test home page
