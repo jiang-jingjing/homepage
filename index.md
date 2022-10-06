@@ -17,7 +17,6 @@ I am a junior research group leader at Biomedical Optics Research Laboratory (BO
     * Ren, W., **Jiang, J.**, Di Costanzo Mata, A., Kalyanov, A., Ripoll, J., Lindner, S., Charbon, E., Zhang, C., Rudin, M. & Wolf, M. Multimodal imaging combining time-domain near-infrared optical tomography and continuous-wave fluorescence molecular tomography. Opt.  Express 28, 9860 (2020)
     
 
-
 #### Academic Experiences
   - <span style="font-family:Helvetica; font-size:18px;">Feb. 2022 - now,  [ZNZ junior group leader](https://www.neuroscience.uzh.ch/en/research/biomedical_technology.html#jiang) </span>
   - <span style="font-family:Helvetica; font-size:18px;"> Mar. 2021 - Jan. 2022, Postdoc at University of Zurich </span>
