@@ -1,8 +1,8 @@
 main:
+  - title: "Homepage"
+    url: /homepage/
   - title: "About"
     url: /about/
-  - title: "Posts"
-    url: /posts/
  # - title: "Categories"
  #   url: /categories/
  # - title: "Tags"
