@@ -15,7 +15,7 @@ I am a junior research group leader at Biomedical Optics Research Laboratory (BO
 * Jiang, J., Di Costanzo Mata, A., Lindner, S., Charbon, E., Wolf, M. & Kalyanov, A. Dynamic time domain near-infrared optical tomog- raphy based on a SPAD camera. Biomed. Opt. Express 11, 5470 (2020). 
 * *Jiang, J.*, Di Costanzo Mata, A., Lindner, S., Zhang, C., Charbon, E., Wolf, M. & Kalyanov, A. Image reconstruction for novel time do- main near infrared optical tomography: towards clinical applications. Biomed. Opt. Express 11, 4723 (2020). </span>
 * Ren, W., **Jiang, J.**, Di Costanzo Mata, A., Kalyanov, A., Ripoll, J., Lindner, S., Charbon, E., Zhang, C., Rudin, M. & Wolf, M. Multimodal imaging combining time-domain near-infrared optical tomography and continuous-wave fluorescence molecular tomography. Opt.  Express 28, 9860 (2020)
-{: .notice--info}
+{: .notice--primary}
 
 
 #### Academic Experiences
