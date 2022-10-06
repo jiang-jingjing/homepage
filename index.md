@@ -19,15 +19,11 @@ I am a junior research group leader at Biomedical Optics Research Laboratory (BO
 
 
 #### Academic Experiences
-  <span style="font-family:Helvetica; font-size:18px;">Feb. 2022 - now,  [ZNZ junior group leader](https://www.neuroscience.uzh.ch/en/research/biomedical_technology.html#jiang) </span>
-
-  <span style="font-family:Helvetica; font-size:18px;"> Mar. 2021 - Jan. 2022, Postdoc at University of Zurich </span>
-
-  <span style="font-family:Helvetica; font-size:18px;">Mar. 2016 - Feb. 2021, Doctoral student at [ETH Zurich](https://ethz.ch/en.html) </span>
-
-  <span style="font-family:Helvetica; font-size:18px;">Sep. 2013 - Sep. 2015, Master student at [ETH Zurich](https://ethz.ch/en.html), Biomedical Engineering </span>
-  
-  <span style="font-family:Helvetica; font-size:18px;">Sep. 2009 - Jun. 2013, Bachlor student at [Sichuan University](https://en.scu.edu.cn), Electronics and Information Engineering, with outstanding graduate award </span>
+ - <span style="font-family:Helvetica; font-size:18px;">Feb. 2022 - now,  [ZNZ junior group leader](https://www.neuroscience.uzh.ch/en/research/biomedical_technology.html#jiang) </span>
+ - <span style="font-family:Helvetica; font-size:18px;"> Mar. 2021 - Jan. 2022, Postdoc at University of Zurich </span>
+ - <span style="font-family:Helvetica; font-size:18px;">Mar. 2016 - Feb. 2021, Doctoral student at [ETH Zurich](https://ethz.ch/en.html) </span>
+ - <span style="font-family:Helvetica; font-size:18px;">Sep. 2013 - Sep. 2015, Master student at [ETH Zurich](https://ethz.ch/en.html), Biomedical Engineering </span>
+ - <span style="font-family:Helvetica; font-size:18px;">Sep. 2009 - Jun. 2013, Bachlor student at [Sichuan University](https://en.scu.edu.cn), Electronics and Information Engineering, with outstanding graduate award </span>
  
 
 
