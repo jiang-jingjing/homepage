@@ -25,4 +25,4 @@ I am a junior research group leader at Biomedical Optics Research Laboratory (BO
 |Mar. 2021 - now	|Postdoc at University of Zurich 	|
 | Mar. 2016 - Feb. 2021	| Doctoral student at [ETH Zurich](https://ethz.ch/en.html)	|
 |Sep. 2013 - Sep. 2015	|Master student at [ETH Zurich](https://ethz.ch/en.html), Biomedical Engineering 	|
-|Sep. 2009 - Jun. 2013	|Bachlor student at [Sichuan University](https://en.scu.edu.cn), <br> Electronics and Information Engineering, with outstanding graduate award 	|
+|Sep. 2009 - Jun. 2013	|Bachlor student at [Sichuan University](https://en.scu.edu.cn), Electronics and Information Engineering, with outstanding graduate award 	|
