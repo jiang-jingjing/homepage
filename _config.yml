@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Jingjing Jiang"
   avatar : "/assets/images/bio-image.jpg"
-  bio    : "Scientist in medical imaging"
+  bio    : "Researcher in medical imaging"
   location : "Zurich, Switzerland"
   links:
    # - label: "Website"
