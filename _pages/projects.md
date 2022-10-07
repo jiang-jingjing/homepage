@@ -2,10 +2,10 @@
 permalink: /projects/
 title: "Projects"
 ---
-## Pioneer imaging system
+# Pioneer imaging system
 <img src="/assets/images/logo_pioneer.png" width="30%" height="30%">
 
-#### Pioneer provides high-precision 3D images of brain oxygenation. This valuable information helps early diagnosis of preterm brain lesions.  
+### Pioneer provides high-precision 3D images of brain oxygenation. This valuable information helps early diagnosis of preterm brain lesions.  
 See [selected relevant pulications]("/homepage/#selected-publications")
 ![pioneer](/assets/images/pioneer_icu.jpg)
 <span style="font-family:Lato; font-size:20px;">
