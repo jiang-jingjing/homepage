@@ -3,7 +3,7 @@ permalink: /projects/
 title: "Projects"
 ---
 
-## Pioneer imaging system   <img src="/assets/images/logo_pioneer.png" width="30%" height="30%">
+## Pioneer imaging system &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="/assets/images/logo_pioneer.png" width="30%" height="30%">
 
 <span style="font-family:Lato; font-size:25px; color:#29A0B1;"> Pioneer provides high-precision 3D images of brain oxygenation. This valuable information helps early diagnosis of preterm brain lesions.  </span>
 
