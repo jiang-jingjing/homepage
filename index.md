@@ -17,7 +17,8 @@ I am a junior research group leader at Biomedical Optics Research Laboratory (BO
 * Ren, W., **Jiang, J.**, Di Costanzo Mata, A., Kalyanov, A., Ripoll, J., Lindner, S., Charbon, E., Zhang, C., Rudin, M. & Wolf, M. Multimodal imaging combining time-domain near-infrared optical tomography and continuous-wave fluorescence molecular tomography,Opt.  Express 28, 9860 (2020).
  ---
 [More ...](https://scholar.google.com/citations?user=hoy7VbIAAAAJ&hl=en&oi=sra)
-{: .notice--primary}  
+{: .notice--primary} 
+
 
 #### Academic Experiences
 
