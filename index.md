@@ -26,6 +26,5 @@ I am a junior research group leader at Biomedical Optics Research Laboratory (BO
  
 
 | Feb. 2022 - now,	| [ZNZ junior group leader](https://www.neuroscience.uzh.ch/en/research/biomedical_technology.html#jiang) 	|
-|---	|---	|
 |Mar. 2021 - Jan. 2022,	|Postdoc at University of Zurich 	|
 
