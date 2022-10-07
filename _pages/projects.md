@@ -7,7 +7,7 @@ title: "Projects"
 
 <strong>
 <span style="font-family:Lato; font-size:20px; color:#29A0B1;">   Pioneer provides high-precision 3D images of brain oxygenation. This valuable information helps early diagnosis of preterm brain lesions.   </span> <strong>
-<p>
+
 <span style="font-family:Lato; font-size:20px;">
 See [selected relevant pulications](/homepage/#selected-publications)
 </span>
