@@ -11,6 +11,7 @@ I am a junior research group leader at Biomedical Optics Research Laboratory (BO
 </span>
 
 #### Selected Publications
+\tiny
 * **Jiang, J.**, Di Costanzo Mata A., Lindner S., Charbon E., Wolf M, & Kalyanov, A., 2.5 Hz sample rate time-domain near-infrared optical tomography based on SPAD-camera image tissue hemodynamics, Biomed. Opt. Express 13, 133-146 (2022) 
 * **Jiang, J.**, Di Costanzo Mata, A., Lindner, S., Charbon, E., Wolf, M. & Kalyanov, A. Dynamic time domain near-infrared optical tomog- raphy based on a SPAD camera. Biomed. Opt. Express 11, 5470 (2020). 
 * **Jiang, J.**, Di Costanzo Mata, A., Lindner, S., Zhang, C., Charbon, E., Wolf, M. & Kalyanov, A. Image reconstruction for novel time do- main near infrared optical tomography: towards clinical applications. Biomed. Opt. Express 11, 4723 (2020).  
@@ -19,11 +20,7 @@ I am a junior research group leader at Biomedical Optics Research Laboratory (BO
 
 #### Academic Experiences
 | Feb. 2022 - now	| [ZNZ junior group leader](https://www.neuroscience.uzh.ch/en/research/biomedical_technology.html#jiang) 	|
-
 |Mar. 2021 - Jan. 2022	|Postdoc at University of Zurich 	|
-
 | Mar. 2016 - Feb. 2021	| Doctoral student at [ETH Zurich](https://ethz.ch/en.html)	|
-
 |Sep. 2013 - Sep. 2015	|Master student at [ETH Zurich](https://ethz.ch/en.html), Biomedical Engineering 	|
-
 |Sep. 2009 - Jun. 2013	|Bachlor student at [Sichuan University](https://en.scu.edu.cn), Electronics and Information Engineering, with outstanding graduate award 	|
