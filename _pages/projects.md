@@ -15,7 +15,7 @@ See [selected relevant pulications](/homepage/#selected-publications)
 ![pioneer](/assets/images/pioneer_icu.jpg)
 
 <span style="font-family:Lato; font-size:20px;">
-Dr. Jiang received UZH [Entrepreneur Fellowship](https://innovation.uzh.ch/en/stories/fellows/Jiang-Jingjing.html) for this project, supported by [Prof. Dr. sc. tech. Martin Wolf](https://www.usz.ch/team/martin-wolf/).
+Dr. Jiang received UZH [Entrepreneur Fellowship](https://innovation.uzh.ch/en/stories/fellows/Jiang-Jingjing.html) for this project.
 </span>
 
 
