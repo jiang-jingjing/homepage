@@ -15,7 +15,7 @@ I am a junior research group leader affiliated with [Prof. Dr. sc. tech. Martin 
 - <span style="font-family:Lato; font-size:16 px;">**Jiang, J.**, Di Costanzo Mata, A., Lindner, S., Zhang, C., Charbon, E., Wolf, M. & Kalyanov, A. Image reconstruction for novel time do- main near infrared optical tomography: towards clinical applications. Biomed. Opt. Express 11, 4723 (2020). </span> 
 - <span style="font-family:Lato; font-size:16 px;"> Ren, W., **Jiang, J.**, Di Costanzo Mata, A., Kalyanov, A., Ripoll, J., Lindner, S., Charbon, E., Zhang, C., Rudin, M. & Wolf, M. Multimodal imaging combining time-domain near-infrared optical tomography and continuous-wave fluorescence molecular tomography,Opt.  Express 28, 9860 (2020). </span>
 --- <span style="font-family:Lato; font-size:16 px;"> [More ...](https://scholar.google.com/citations?user=hoy7VbIAAAAJ&hl=en&oi=sra) </span>
-</span>
+ 
 
 
 
