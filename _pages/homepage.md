@@ -21,7 +21,7 @@ I am a junior research group leader affiliated with [Prof. Dr. sc. tech. Martin 
 
 #### Academic Experiences
 
-|Feb. 2022 - now	|[ZNZ junior group leader](https://www.neuroscience.uzh.ch/en/research/biomedical_technology.html#jiang)	|
+|Feb. 2022 - now	|[ZNZ junior group leader](https://www.neuroscience.uzh.ch/en/research/biomedical_technology.html#jiang), University Hospital and University of Zurich	|
 |Mar. 2021 - now	|Postdoc at University of Zurich 	|
 | Mar. 2016 - Feb. 2021	| Doctoral student at [ETH Zurich](https://ethz.ch/en.html)	|
 |Sep. 2013 - Sep. 2015	|Master student at [ETH Zurich](https://ethz.ch/en.html), Biomedical Engineering 	|
