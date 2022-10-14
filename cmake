@@ -1,1 +1,1 @@
-www.jingjingjiang.com
+jingjingjiang.com
