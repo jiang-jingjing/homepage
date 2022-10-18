@@ -7,7 +7,7 @@ author_profile: true
 ## Jingjing Jiang, Dr. Sc. ETH
  
 <span style="font-family:Lato; font-size:20px;">
-I am a junior research group leader affiliated with [Prof. Dr. sc. tech. Martin Wolf](https://www.usz.ch/team/martin-wolf/)'s Research Laboratory  at University Hospital and University of Zurich. My career goal is to develop and fascilitate the scientific and technological innovations for the unmet medical needs. I obtained Doctor of Science degree from ETH Zurich in February 2021, with the thesis entitled [Imaging with near infrared light](https://www.research-collection.ethz.ch/handle/20.500.11850/468947).  My research interests focus on optical imaging, medical imaging, image reconstruction, image analysis and machine learning. 
+I am a junior research group leader affiliated with [Prof. Dr. sc. tech. Martin Wolf](https://www.usz.ch/team/martin-wolf/)'s Research Laboratory  at University Hospital and University of Zurich. I obtained Doctor of Science degree from ETH Zurich in February 2021, with the thesis entitled [Imaging with near infrared light](https://www.research-collection.ethz.ch/handle/20.500.11850/468947).  My research interests focus on optical imaging, medical imaging, image reconstruction, image analysis and machine learning. 
 </span>
 
 #### Selected Publications
