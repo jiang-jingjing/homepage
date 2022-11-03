@@ -26,5 +26,4 @@ The ultimate goal is to bring Pioneer to the market first for brain imaging in p
 ![](/assets/images/uzh_usz_bei_LOGOs_combined.png) ![](/assets/images/Fellowship_Logo.png) -->
 <!-- ![sponsors](/assets/images/uzh_usz_bei_LOGOs_combined.png) -->
 
-<img src="/assets/images/uzh_usz_bei_LOGOs_combined.png" width="10%" height=10%/> 
-<img src="/assets/images/Fellowship_Logo.png" width="5%" height=5%> 
+<img src="/assets/images/uzh_usz_bei_LOGOs_combined.png" align="left" width="10%" height=10%/> <img src="/assets/images/Fellowship_Logo.png" align="left" width="5%" height=5%/> 
