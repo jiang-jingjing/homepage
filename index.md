@@ -29,3 +29,6 @@ I am a junior research group leader affiliated with [Prof. Dr. sc. tech. Martin 
 |Nov. 2015 - Feb. 2016	|Research associate at [University Hospital Zurich](https://www.usz.ch/en/)	|
 |Sep. 2013 - Sep. 2015	|Master student at [ETH Zurich](https://ethz.ch/en.html), Biomedical Engineering 	|
 |Sep. 2009 - Jun. 2013	|Bachlor student at [Sichuan University](https://en.scu.edu.cn), Electronics and Information Engineering, with outstanding graduate award 	|
+
+#### Funding
+UZH Entrepreneur Fellowship, Forschungskredit, Vontobel Stiftung
