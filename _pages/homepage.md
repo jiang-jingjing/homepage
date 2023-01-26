@@ -30,4 +30,6 @@ I am a junior research group leader affiliated with [Prof. Dr. sc. tech. Martin 
 |Sep. 2009 - Jun. 2013	|Bachlor student at [Sichuan University](https://en.scu.edu.cn), Electronics and Information Engineering, with outstanding graduate award 	|
 
 #### Funding
+<span style="font-family:Lato; font-size:20px;">
 Forschungskredit, UZH Entrepreneur Fellowship, Vontobel Stiftung
+</span>
