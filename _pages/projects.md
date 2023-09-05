@@ -15,7 +15,7 @@ See [selected relevant pulications](/homepage/#selected-publications)
 ![pioneer](/assets/images/pioneer_icu.jpg)
 
 <span style="font-family:Lato; font-size:20px;">
-I received the UZH [Entrepreneur Fellowship](https://innovation.uzh.ch/en/stories/fellows/Jiang-Jingjing.html) for this project and joined the UZH IncubatorLab in December 2021. 
+I received Bridge Proof of Concept and the UZH [Entrepreneur Fellowship](https://innovation.uzh.ch/en/stories/fellows/Jiang-Jingjing.html) for this project.
 The ultimate goal is to bring Pioneer to the market first for brain imaging in preterm infants and to expand it to many other clinical fields (e.g., anesthesia, oncology, angiology, intensive care medicine).
 </span>
 
@@ -25,4 +25,5 @@ The ultimate goal is to bring Pioneer to the market first for brain imaging in p
 <!-- 
 ![](/assets/images/uzh_usz_bei_LOGOs_combined.png) ![](/assets/images/Fellowship_Logo.png) -->
 <!-- ![sponsors](/assets/images/uzh_usz_bei_LOGOs_combined.png) -->
-<img src="/assets/images/uzh_usz_bei_LOGOs_combined.png" width="70%"/> <img src="/assets/images/Fellowship_Logo.png" width="23%"/>
+<img src="/assets/images/uzh_usz_bei_LOGOs_combined.png" width="60%"/> <img src="/assets/images/Fellowship_Logo.png" width="23%"/>
+<img src="/assets/images/Logo_BRIDGE_c.png" width="23%"/> 

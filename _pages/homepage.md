@@ -31,5 +31,5 @@ I am a junior research group leader affiliated with [Prof. Dr. sc. tech. Martin 
 
 #### Funding
 <span style="font-family:Lato; font-size:20px;">
-Forschungskredit, UZH Entrepreneur Fellowship, Vontobel Stiftung
+Forschungskredit, UZH Entrepreneur Fellowship, Vontobel Stiftung, SNSF Bridge Proof of Concept
 </span>
