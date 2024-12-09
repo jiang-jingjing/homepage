@@ -33,5 +33,5 @@ I am a research group leader of the Computational Optical Imaging Research Group
 
 #### Funding
 <span style="font-family:Lato; font-size:20px;">
-Forschungskredit, UZH Entrepreneur Fellowship, Vontobel Stiftung, SNSF Bridge Proof of Concept, USZ Innovationspool
+Forschungskredit, UZH Entrepreneur Fellowship, Vontobel Stiftung, SNSF Bridge Proof of Concept, USZ Innovationspool, ZNZ PhD Grant
 </span>
